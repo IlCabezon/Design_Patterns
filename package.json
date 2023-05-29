@@ -1,0 +1,13 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "POObasics.js",
+  "scripts": {
+    "test": "node --test",
+    "debug": "node --watch POObasics.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
