@@ -5,7 +5,7 @@
   "main": "POObasics.js",
   "scripts": {
     "test": "node --test",
-    "debug": "node --watch POObasics.js"
+    "debug": "node --watch [file]"
   },
   "keywords": [],
   "author": "",
